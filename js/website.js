@@ -44,7 +44,7 @@ oui_non = '<table cellpadding="0" cellspacing="0">\
                 </tr>\
             </table>';
 
-devis = '<div class="AffiliateDevis"></div>';
+devis = '</div><div class="AffiliateDevis"></div><div>';
 
 pages = Array();
 
